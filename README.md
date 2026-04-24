@@ -1,1 +1,1 @@
-Lagu Aku yang jatuh cinta menggunakan Python
+Lirik Lagu Aku yang jatuh cinta menggunakan Python
